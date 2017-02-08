@@ -19,5 +19,9 @@ class ViewController: UIViewController {
     }
 }
 
+<<<<<<< HEAD
 //add 4
+=======
+// add 3
+>>>>>>> parent of 284d056... add 4
 
