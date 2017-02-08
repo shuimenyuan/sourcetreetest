@@ -11,17 +11,9 @@ import UIKit
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // add 1
         }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
 }
-
-<<<<<<< HEAD
-//add 4
-=======
-// add 3
->>>>>>> parent of 284d056... add 4
-
