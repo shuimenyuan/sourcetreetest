@@ -11,7 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        //add 1
         }
 
     override func didReceiveMemoryWarning() {
@@ -19,7 +18,4 @@ class ViewController: UIViewController {
     }
 }
 
-
-//add 3
-//add 4
 
