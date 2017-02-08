@@ -19,9 +19,3 @@ class ViewController: UIViewController {
         //esf
     }
 }
-<<<<<<< HEAD
-//ee
-=======
-//e
-fds
->>>>>>> master
